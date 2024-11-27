@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Сказки</title>
+</head>
+<body>
+    <div class="main">
+      
+        
+        <img src="images/1.jpg">
+        <div class="name">
+            <a></a>
+            <p></p>
+        </div>
+    </div>
+   
+    <div class="footer">
+        <a> Якутская сказка о Старухе Бяйбярикян с пятью коровами.
+            Старушка Бяйбярикян нашла волшебную траву, из которой появилась прекрасная девушка. Охотник Харжит-Берген, промахнувшись стрелой в белку, случайно попал в трубу юрты старушки. Увидев девушку, он влюбился и попросил её руки. Родители охотника отправили гонцов, которые, выполнив условие старушки (заполнив поле скотом), забрали девушку замуж.</a>
+    </div>
+ 
+
+
+
+</body>
+</html>
